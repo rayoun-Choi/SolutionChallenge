@@ -1,0 +1,736 @@
+[
+    {
+      "condition": "Contact Dermatitis",
+      "question": "What is contact dermatitis and what causes it?",
+      "answer": "Contact dermatitis is a skin inflammation caused by direct contact with irritants or allergens, commonly from chemicals, plants, or animal waste in outdoor workers.",
+      "symptoms": [
+        "redness",
+        "itching",
+        "rash",
+        "blisters"
+      ]
+    },
+    {
+      "condition": "Contact Dermatitis",
+      "question": "How is contact dermatitis treated and prevented?",
+      "answer": "Avoiding the irritant, using protective clothing, and applying topical corticosteroids are the main treatments. Moisturizers help restore the skin barrier.",
+      "symptoms": [
+        "itching",
+        "rash",
+        "dry skin"
+      ]
+    },
+    {
+      "condition": "Sun Damage",
+      "question": "How does sun exposure affect the skin of outdoor workers?",
+      "answer": "Prolonged UV exposure leads to sunburn, premature aging, and increases the risk of skin cancer such as basal or squamous cell carcinoma.",
+      "symptoms": [
+        "sunburn",
+        "wrinkles",
+        "dark spots",
+        "skin cancer"
+      ]
+    },
+    {
+      "condition": "Sun Damage",
+      "question": "How can outdoor workers protect themselves from sun damage?",
+      "answer": "Wearing long clothing, applying sunscreen, using hats, and avoiding sun during midday helps prevent sun-related skin problems.",
+      "symptoms": [
+        "sunburn",
+        "dark patches",
+        "skin thickening"
+      ]
+    },
+    {
+      "condition": "Fungal Infections",
+      "question": "What are common fungal infections like ringworm or athlete\u2019s foot?",
+      "answer": "They are infections caused by dermatophytes that thrive in moist areas, causing red, itchy, ring-shaped or cracked skin.",
+      "symptoms": [
+        "itching",
+        "redness",
+        "peeling",
+        "scaly skin"
+      ]
+    },
+    {
+      "condition": "Fungal Infections",
+      "question": "How are fungal infections treated?",
+      "answer": "Topical antifungals like clotrimazole or oral medications are used. Keeping the area dry is important.",
+      "symptoms": [
+        "itchy rash",
+        "cracks",
+        "odor"
+      ]
+    },
+    {
+      "condition": "Leprosy",
+      "question": "What is leprosy and what are its skin signs?",
+      "answer": "Leprosy is a chronic infection causing pale or red numb patches, sometimes with nerve thickening or deformity.",
+      "symptoms": [
+        "skin patches",
+        "numbness",
+        "nerve damage"
+      ]
+    },
+    {
+      "condition": "Leprosy",
+      "question": "How is leprosy treated and spread?",
+      "answer": "It spreads via prolonged contact and is treated with multidrug therapy including rifampicin and dapsone.",
+      "symptoms": [
+        "loss of sensation",
+        "discolored skin"
+      ]
+    },
+    {
+      "condition": "Scabies",
+      "question": "What is scabies and how does it appear?",
+      "answer": "Scabies is caused by mites that burrow in skin, leading to intense itching and pimple-like rash, often in skin folds.",
+      "symptoms": [
+        "itching",
+        "rash",
+        "burrow lines"
+      ]
+    },
+    {
+      "condition": "Scabies",
+      "question": "How is scabies treated and prevented?",
+      "answer": "Topical permethrin or oral ivermectin is used. Close contacts must be treated and bedding washed in hot water.",
+      "symptoms": [
+        "itchy bumps",
+        "skin irritation"
+      ]
+    },
+    {
+      "condition": "Impetigo",
+      "question": "What is impetigo and what does it look like?",
+      "answer": "Impetigo is a bacterial skin infection presenting with honey-colored crusts, often on the face or arms.",
+      "symptoms": [
+        "crusts",
+        "blisters",
+        "itching"
+      ]
+    },
+    {
+      "condition": "Impetigo",
+      "question": "How is impetigo treated?",
+      "answer": "Topical or oral antibiotics like mupirocin or flucloxacillin are prescribed. Hygiene is key to prevent spread.",
+      "symptoms": [
+        "oozing sores",
+        "skin redness"
+      ]
+    },
+    {
+      "condition": "Contact Dermatitis",
+      "question": "Can contact dermatitis occur from plants?",
+      "answer": "Yes, exposure to certain plants like poison ivy or agricultural crops can trigger contact dermatitis in sensitive individuals.",
+      "symptoms": ["redness", "blisters", "itching"]
+    },
+    {
+      "condition": "Contact Dermatitis",
+      "question": "What are common allergens causing contact dermatitis?",
+      "answer": "Nickel, latex, fragrances, and preservatives in cosmetics are common allergens.",
+      "symptoms": ["rash", "itching", "swelling"]
+    },
+    {
+      "condition": "Sun Damage",
+      "question": "What long-term effects does sun damage cause?",
+      "answer": "Sun damage can lead to actinic keratosis, wrinkles, pigmentation, and skin cancer.",
+      "symptoms": ["wrinkles", "actinic keratosis", "sunspots"]
+    },
+    {
+      "condition": "Sun Damage",
+      "question": "Are UVB and UVA rays both harmful?",
+      "answer": "Yes, UVA ages the skin and UVB burns it. Both increase cancer risk.",
+      "symptoms": ["burn", "aging", "DNA damage"]
+    },
+    {
+      "condition": "Fungal Infections",
+      "question": "How do fungal infections spread?",
+      "answer": "They spread via skin contact, shared towels, shoes, or moist environments.",
+      "symptoms": ["itching", "cracking", "redness"]
+    },
+    {
+      "condition": "Leprosy",
+      "question": "Why is early detection of leprosy important?",
+      "answer": "Early treatment prevents disability, nerve damage, and transmission.",
+      "symptoms": ["skin patches", "nerve thickening", "numbness"]
+    },
+    {
+      "condition": "Scabies",
+      "question": "Can animals transmit scabies to humans?",
+      "answer": "Scabies from animals (mange) rarely infest humans, and symptoms are usually mild and temporary.",
+      "symptoms": ["itching", "pustules", "burrows"]
+    },
+    {
+      "condition": "Impetigo",
+      "question": "Can impetigo become serious?",
+      "answer": "If untreated, it can lead to cellulitis or post-streptococcal complications like kidney inflammation.",
+      "symptoms": ["crusting", "spread", "blisters"]
+    },
+    {
+      "condition": "Psoriasis",
+      "question": "Does stress trigger psoriasis flares?",
+      "answer": "Yes, stress is a major trigger along with infections and cold weather.",
+      "symptoms": ["itching", "scaling", "cracking"]
+    },
+    {
+      "condition": "Eczema",
+      "question": "Can diet affect eczema?",
+      "answer": "Food allergies or intolerances (e.g., dairy, eggs) can worsen eczema in some individuals.",
+      "symptoms": ["dry skin", "rash", "itching"]
+    },
+    {
+      "condition": "Melasma",
+      "question": "Does pregnancy cause melasma?",
+      "answer": "Yes, hormonal changes during pregnancy can cause 'mask of pregnancy' or melasma.",
+      "symptoms": ["facial pigmentation", "brown patches"]
+    },
+    {
+      "condition": "Vitiligo",
+      "question": "Is vitiligo contagious or genetic?",
+      "answer": "Vitiligo is not contagious, but it may have a genetic component.",
+      "symptoms": ["white patches", "loss of melanin"]
+    },
+    {
+      "condition": "Rosacea",
+      "question": "What foods trigger rosacea?",
+      "answer": "Spicy food, alcohol, and hot beverages can worsen rosacea symptoms.",
+      "symptoms": ["flushing", "redness", "swelling"]
+    },
+    {
+      "condition": "Acne",
+      "question": "What types of acne exist?",
+      "answer": "Blackheads, whiteheads, papules, pustules, nodules, and cysts are types of acne.",
+      "symptoms": ["pimples", "cysts", "oily skin"]
+    },
+    {
+      "condition": "Warts",
+      "question": "Are warts preventable?",
+      "answer": "Avoid touching warts, keep skin dry, and wear footwear in public showers to prevent spread.",
+      "symptoms": ["raised bump", "dry patch"]
+    },
+    {
+      "condition": "Seborrheic Keratosis",
+      "question": "Can seborrheic keratosis become cancerous?",
+      "answer": "No, it is benign and not precancerous, though it may resemble melanoma.",
+      "symptoms": ["waxy bump", "dark plaque"]
+    },
+    {
+      "condition": "Basal Cell Carcinoma",
+      "question": "Can basal cell carcinoma metastasize?",
+      "answer": "It rarely spreads to distant organs but can be locally invasive if untreated.",
+      "symptoms": ["open sore", "slow growth", "scab"]
+    },
+    {
+      "condition": "Contact Dermatitis",
+      "question": "What is the difference between irritant and allergic contact dermatitis?",
+      "answer": "Irritant contact dermatitis occurs due to direct damage from substances like soaps or solvents, while allergic contact dermatitis is an immune reaction to allergens such as nickel or latex.",
+      "symptoms": ["burning", "dryness", "rash"]
+  },
+  {
+      "condition": "Sun Damage",
+      "question": "Can sun damage occur on cloudy days?",
+      "answer": "Yes, up to 80% of UV rays can penetrate clouds, so sun protection is important even on overcast days.",
+      "symptoms": ["redness", "sunburn", "freckles"]
+  },
+  {
+      "condition": "Fungal Infections",
+      "question": "What is the best prevention method for athlete’s foot?",
+      "answer": "Keep feet dry, wear breathable shoes, and use antifungal powders in moist environments.",
+      "symptoms": ["cracking", "itchiness", "peeling skin"]
+  },
+  {
+      "condition": "Leprosy",
+      "question": "Is leprosy still common today?",
+      "answer": "Leprosy is now rare and treatable, but still present in rural or underdeveloped regions. Early diagnosis is key.",
+      "symptoms": ["pale skin", "numb patches", "ulcers"]
+  },
+  {
+      "condition": "Scabies",
+      "question": "How long do scabies mites survive off the human body?",
+      "answer": "They can survive 2–3 days on surfaces like bedding or towels, which is why washing is essential.",
+      "symptoms": ["burrows", "itching", "rash in folds"]
+  },
+  {
+      "condition": "Impetigo",
+      "question": "Is impetigo contagious through contact?",
+      "answer": "Yes, it spreads through direct skin contact or contaminated items. Children are especially vulnerable.",
+      "symptoms": ["oozing lesions", "crusting", "red sores"]
+  },
+  {
+      "condition": "Psoriasis",
+      "question": "Can weather affect psoriasis?",
+      "answer": "Cold, dry weather often worsens symptoms, while sun exposure may improve some cases mildly.",
+      "symptoms": ["plaque", "flaky skin", "redness"]
+  },
+  {
+      "condition": "Eczema",
+      "question": "Is eczema linked to asthma or allergies?",
+      "answer": "Yes, eczema is commonly associated with the 'atopic triad'—asthma, hay fever, and eczema.",
+      "symptoms": ["inflammation", "cracks", "itching"]
+  },
+  {
+      "condition": "Melasma",
+      "question": "Can men get melasma too?",
+      "answer": "Yes, though less common, melasma can affect men, especially those working outdoors.",
+      "symptoms": ["brown patches", "symmetrical pigmentation"]
+  },
+  {
+      "condition": "Vitiligo",
+      "question": "How does vitiligo progress over time?",
+      "answer": "Vitiligo may slowly spread over years, but progression varies. It often stabilizes after some time.",
+      "symptoms": ["white patches", "pigment loss"]
+  },
+  {
+      "condition": "Rosacea",
+      "question": "Is rosacea related to acne?",
+      "answer": "No, though it can resemble acne, rosacea is a chronic vascular condition and lacks blackheads.",
+      "symptoms": ["facial flushing", "bumps", "visible veins"]
+  },
+  {
+      "condition": "Acne",
+      "question": "Does diet affect acne?",
+      "answer": "High glycemic foods and dairy may worsen acne in some individuals, though evidence varies.",
+      "symptoms": ["pimples", "whiteheads", "inflammation"]
+  },
+  {
+      "condition": "Warts",
+      "question": "Why do warts often recur?",
+      "answer": "Warts are caused by viruses, and recurrence can happen if the virus remains in surrounding tissue.",
+      "symptoms": ["hard bump", "rough surface"]
+  },
+  {
+      "condition": "Seborrheic Keratosis",
+      "question": "Do seborrheic keratoses require biopsy?",
+      "answer": "Usually no, unless the lesion changes rapidly or resembles melanoma.",
+      "symptoms": ["waxy growth", "brown or black color"]
+  },
+  {
+      "condition": "Basal Cell Carcinoma",
+      "question": "What causes basal cell carcinoma?",
+      "answer": "Chronic sun exposure, especially in fair-skinned individuals, is the leading cause.",
+      "symptoms": ["translucent bump", "non-healing sore"]
+  },
+  {
+    "condition": "Contact Dermatitis",
+    "question": "Can soap and sanitizer overuse lead to dermatitis?",
+    "answer": "Yes, frequent use of harsh soaps or alcohol-based sanitizers strips natural oils, triggering irritant contact dermatitis.",
+    "symptoms": ["dryness", "peeling", "redness"]
+  },
+  {
+    "condition": "Sun Damage",
+    "question": "Can skin cancer be prevented with sunscreen?",
+    "answer": "Regular use of broad-spectrum SPF 30+ sunscreen significantly reduces the risk of basal and squamous cell carcinoma.",
+    "symptoms": ["dark lesions", "rough patches", "sores"]
+  },
+  {
+    "condition": "Fungal Infections",
+    "question": "Can fungal infections spread from animals?",
+    "answer": "Yes, some fungal infections like ringworm can be zoonotic, spreading from infected animals to humans.",
+    "symptoms": ["red ring", "itch", "hair loss"]
+  },
+  {
+    "condition": "Leprosy",
+    "question": "Is leprosy still stigmatized?",
+    "answer": "Yes, despite being curable, social stigma persists in many areas, leading to delayed treatment and isolation.",
+    "symptoms": ["skin numbness", "discoloration"]
+  },
+  {
+    "condition": "Scabies",
+    "question": "What is the incubation period of scabies?",
+    "answer": "Scabies symptoms may take 2–6 weeks after initial infestation to appear, but can spread before symptoms show.",
+    "symptoms": ["itching", "rash", "burrows"]
+  },
+  {
+    "condition": "Impetigo",
+    "question": "Can impetigo be mistaken for eczema?",
+    "answer": "Yes, early impetigo may resemble eczema but typically progresses to honey-colored crusts and spreads faster.",
+    "symptoms": ["crust", "spreading rash"]
+  },
+  {
+    "condition": "Psoriasis",
+    "question": "Can psoriasis affect joints?",
+    "answer": "Yes, psoriatic arthritis affects up to 30% of psoriasis patients, causing joint pain and swelling.",
+    "symptoms": ["joint stiffness", "skin plaques"]
+  },
+  {
+    "condition": "Eczema",
+    "question": "Can eczema become infected?",
+    "answer": "Yes, scratching can lead to bacterial infections like Staphylococcus aureus. Watch for pus or yellow crusting.",
+    "symptoms": ["oozing", "pain", "redness"]
+  },
+  {
+    "condition": "Melasma",
+    "question": "Does melasma go away after pregnancy?",
+    "answer": "It may fade post-pregnancy but often persists and requires topical treatment or laser therapy.",
+    "symptoms": ["mask-like patches"]
+  },
+  {
+    "condition": "Vitiligo",
+    "question": "Can vitiligo be treated with UV therapy?",
+    "answer": "Yes, narrowband UVB phototherapy is one of the most effective treatments for vitiligo repigmentation.",
+    "symptoms": ["depigmented skin", "sensitive areas"]
+  },
+  {
+    "condition": "Rosacea",
+    "question": "Can rosacea cause eye problems?",
+    "answer": "Yes, ocular rosacea can cause dry, itchy, and red eyes. It requires early treatment to avoid complications.",
+    "symptoms": ["eye irritation", "tearing", "light sensitivity"]
+  },
+  {
+    "condition": "Acne",
+    "question": "Should acne be treated early?",
+    "answer": "Early treatment can prevent scarring, hyperpigmentation, and psychosocial impact, especially in teens.",
+    "symptoms": ["pimples", "cysts", "scars"]
+  },
+  {
+    "condition": "Warts",
+    "question": "Do warts require medical treatment?",
+    "answer": "Some warts resolve spontaneously, but persistent or painful warts should be treated by a healthcare provider.",
+    "symptoms": ["thick bump", "itch", "tenderness"]
+  },
+  {
+    "condition": "Seborrheic Keratosis",
+    "question": "Is it common for older adults to develop seborrheic keratosis?",
+    "answer": "Yes, these benign lesions are common after age 50 and tend to increase with age.",
+    "symptoms": ["waxy patch", "rough growth"]
+  },
+  {
+    "condition": "Basal Cell Carcinoma",
+    "question": "What does early basal cell carcinoma look like?",
+    "answer": "It often appears as a translucent bump, flat scar-like area, or a sore that doesn't heal.",
+    "symptoms": ["shiny bump", "persistent ulcer"]
+  },
+  {
+    "condition": "Contact Dermatitis",
+    "question": "Does wearing gloves prevent all types of contact dermatitis?",
+    "answer": "Gloves can reduce exposure, but certain materials (e.g., latex) may themselves cause allergic reactions. Choose hypoallergenic gloves.",
+    "symptoms": ["itching", "dry skin", "rash"]
+  },
+  {
+    "condition": "Sun Damage",
+    "question": "What is actinic keratosis?",
+    "answer": "Actinic keratosis is a rough, scaly patch on sun-exposed skin that can progress to squamous cell carcinoma if untreated.",
+    "symptoms": ["scaly patch", "rough skin", "pink plaque"]
+  },
+  {
+    "condition": "Fungal Infections",
+    "question": "Are antifungal powders or creams more effective?",
+    "answer": "Both are effective; powders are better for prevention and moisture control, while creams treat active infections.",
+    "symptoms": ["itch", "burn", "discoloration"]
+  },
+  {
+    "condition": "Leprosy",
+    "question": "Can leprosy cause disability?",
+    "answer": "Yes, if left untreated, it can cause irreversible nerve damage, leading to deformities or limb weakness.",
+    "symptoms": ["numbness", "weakness", "ulcer"]
+  },
+  {
+    "condition": "Scabies",
+    "question": "How is crusted scabies different from classic scabies?",
+    "answer": "Crusted scabies involves thick crusts with high mite loads, often in immunocompromised individuals, and is highly contagious.",
+    "symptoms": ["thick crusts", "scaling", "itch"]
+  },
+  {
+    "condition": "Impetigo",
+    "question": "Is there a vaccine for impetigo?",
+    "answer": "No, but maintaining hygiene and treating minor wounds quickly can prevent it. Research on Group A Strep vaccines is ongoing.",
+    "symptoms": ["blisters", "crusting", "red patches"]
+  },
+  {
+    "condition": "Psoriasis",
+    "question": "Is psoriasis hereditary?",
+    "answer": "Yes, having a family history of psoriasis increases your risk. It’s a genetic autoimmune condition.",
+    "symptoms": ["plaque", "thickened skin", "white scales"]
+  },
+  {
+    "condition": "Eczema",
+    "question": "Can eczema affect sleep?",
+    "answer": "Yes, nighttime itching often disrupts sleep. Moisturizing before bed and using antihistamines can help.",
+    "symptoms": ["itch at night", "cracked skin"]
+  },
+  {
+    "condition": "Melasma",
+    "question": "What ingredients help treat melasma?",
+    "answer": "Hydroquinone, kojic acid, azelaic acid, and tranexamic acid are used in topical treatments.",
+    "symptoms": ["brown patches", "hyperpigmentation"]
+  },
+  {
+    "condition": "Vitiligo",
+    "question": "Are there new therapies for vitiligo?",
+    "answer": "Yes, Janus kinase (JAK) inhibitors and new phototherapies show promise in clinical trials.",
+    "symptoms": ["white patches", "hair depigmentation"]
+  },
+  {
+    "condition": "Rosacea",
+    "question": "Does alcohol trigger rosacea?",
+    "answer": "Yes, especially red wine and spirits. These dilate blood vessels and increase flushing.",
+    "symptoms": ["redness", "flare-ups"]
+  },
+  {
+    "condition": "Acne",
+    "question": "Is it okay to pop pimples?",
+    "answer": "No, popping can lead to infection, inflammation, and permanent scarring.",
+    "symptoms": ["pus-filled bumps", "tenderness"]
+  },
+  {
+    "condition": "Warts",
+    "question": "Can warts appear internally?",
+    "answer": "Yes, HPV can cause internal genital, anal, or oral warts. Medical treatment is necessary.",
+    "symptoms": ["bump", "internal lesion"]
+  },
+  {
+    "condition": "Seborrheic Keratosis",
+    "question": "Can seborrheic keratosis itch?",
+    "answer": "Yes, some people experience itching or irritation, especially with friction or dryness.",
+    "symptoms": ["itch", "waxy texture", "raised lesion"]
+  },
+  {
+    "condition": "Basal Cell Carcinoma",
+    "question": "Can basal cell carcinoma recur after treatment?",
+    "answer": "Yes, especially if margins were not completely excised. Regular follow-ups are necessary.",
+    "symptoms": ["recurrent sore", "scar tissue"]
+  },
+  {
+    "condition": "Contact Dermatitis",
+    "question": "Can children get contact dermatitis from diapers?",
+    "answer": "Yes, diaper dermatitis can result from prolonged exposure to moisture or allergy to wipes or materials.",
+    "symptoms": ["red rash", "soreness", "irritation"]
+  },
+  {
+    "condition": "Sun Damage",
+    "question": "What are sunspots and are they dangerous?",
+    "answer": "Sunspots, or solar lentigines, are benign darkened patches from UV exposure. They are not cancerous but indicate UV damage.",
+    "symptoms": ["flat dark spot", "sun-exposed skin"]
+  },
+  {
+    "condition": "Fungal Infections",
+    "question": "Why do fungal infections recur?",
+    "answer": "Fungal spores may persist in shoes, towels, or humid environments. Reinfection is common if hygiene isn't maintained.",
+    "symptoms": ["itch", "scaling", "recurrent lesions"]
+  },
+  {
+    "condition": "Leprosy",
+    "question": "How is leprosy diagnosed?",
+    "answer": "Leprosy is diagnosed through skin biopsy, slit-skin smear, and clinical signs like numb patches and nerve thickening.",
+    "symptoms": ["hypopigmented patches", "nerve damage"]
+  },
+  {
+    "condition": "Scabies",
+    "question": "How long does scabies treatment take?",
+    "answer": "Topical treatments work within a week, but itching may last for weeks as the immune system calms down.",
+    "symptoms": ["persistent itch", "rash", "scratching marks"]
+  },
+  {
+    "condition": "Impetigo",
+    "question": "Are antibiotics always needed for impetigo?",
+    "answer": "Mild cases can be treated topically, but widespread or deeper infections may require oral antibiotics.",
+    "symptoms": ["blistering", "yellow crusts", "red base"]
+  },
+  {
+    "condition": "Psoriasis",
+    "question": "Are biologics used for psoriasis?",
+    "answer": "Yes, biologics like TNF-alpha or IL-17 inhibitors are used in moderate to severe psoriasis cases.",
+    "symptoms": ["severe plaques", "joint pain", "scaling"]
+  },
+  {
+    "condition": "Eczema",
+    "question": "Does bathing worsen eczema?",
+    "answer": "Frequent hot showers can worsen eczema, but short lukewarm baths followed by moisturizing help.",
+    "symptoms": ["flaky skin", "itching", "red patches"]
+  },
+  {
+    "condition": "Melasma",
+    "question": "Is laser treatment effective for melasma?",
+    "answer": "Laser therapy can help but carries a risk of rebound hyperpigmentation, especially in darker skin.",
+    "symptoms": ["patchy pigmentation", "sun-related discoloration"]
+  },
+  {
+    "condition": "Vitiligo",
+    "question": "Is vitiligo associated with other diseases?",
+    "answer": "Yes, vitiligo can co-occur with autoimmune diseases like thyroid disorders and type 1 diabetes.",
+    "symptoms": ["depigmentation", "white facial spots"]
+  },
+  {
+    "condition": "Rosacea",
+    "question": "Can makeup worsen rosacea?",
+    "answer": "Yes, certain cosmetics and skincare with alcohol, fragrance, or menthol can irritate rosacea-prone skin.",
+    "symptoms": ["burning", "red patches", "skin sensitivity"]
+  },
+  {
+    "condition": "Acne",
+    "question": "Do hormones affect acne?",
+    "answer": "Yes, hormonal fluctuations (e.g., during puberty, periods, PCOS) often trigger or worsen acne.",
+    "symptoms": ["deep cysts", "jawline acne", "oiliness"]
+  },
+  {
+    "condition": "Warts",
+    "question": "Can HPV vaccines prevent warts?",
+    "answer": "Yes, the HPV vaccine protects against strains causing genital warts and cervical cancer.",
+    "symptoms": ["genital lesions", "cauliflower-like growths"]
+  },
+  {
+    "condition": "Seborrheic Keratosis",
+    "question": "What causes seborrheic keratosis to fall off?",
+    "answer": "They may slough off naturally due to friction or minor trauma but usually persist without treatment.",
+    "symptoms": ["crumbly surface", "detached lesion"]
+  },
+  {
+    "condition": "Basal Cell Carcinoma",
+    "question": "Does basal cell carcinoma need radiation?",
+    "answer": "In elderly patients or surgically challenging locations, radiation may be used as a treatment alternative.",
+    "symptoms": ["bleeding bump", "pearly edge", "ulceration"]
+  },
+  {
+    "condition": "Contact Dermatitis",
+    "question": "How long does it take for contact dermatitis to heal?",
+    "answer": "With proper avoidance and treatment, mild cases clear within 1–3 weeks, though chronic exposure can prolong symptoms.",
+    "symptoms": ["rash", "itch", "cracking"]
+  },
+  {
+    "condition": "Sun Damage",
+    "question": "Can sun damage occur through windows?",
+    "answer": "Yes, UVA rays penetrate glass and contribute to skin aging and pigmentation indoors or in vehicles.",
+    "symptoms": ["fine lines", "freckles", "discoloration"]
+  },
+  {
+    "condition": "Fungal Infections",
+    "question": "What are signs of nail fungus?",
+    "answer": "Thickened, discolored, crumbly nails often indicate onychomycosis, a type of fungal nail infection.",
+    "symptoms": ["yellow nails", "brittle nails"]
+  },
+  {
+    "condition": "Leprosy",
+    "question": "Can leprosy cause eye complications?",
+    "answer": "Yes, untreated leprosy affecting facial nerves can lead to eye dryness, corneal ulcers, or blindness.",
+    "symptoms": ["eye irritation", "eyelid weakness"]
+  },
+  {
+    "condition": "Scabies",
+    "question": "Do bedding and clothes need special treatment after scabies?",
+    "answer": "Yes, wash all clothing, bedding, and towels in hot water and dry on high heat to kill mites.",
+    "symptoms": ["rash", "night itching", "burrow lines"]
+  },
+  {
+    "condition": "Impetigo",
+    "question": "Can adults get impetigo?",
+    "answer": "Yes, though more common in children, adults with skin trauma or close contact can contract it.",
+    "symptoms": ["crusty sores", "red skin", "itch"]
+  },
+  {
+    "condition": "Psoriasis",
+    "question": "Can psoriasis affect the scalp?",
+    "answer": "Yes, scalp psoriasis causes flaking, scaling, and sometimes hair loss due to inflammation.",
+    "symptoms": ["white scales", "flaky scalp", "itch"]
+  },
+  {
+    "condition": "Eczema",
+    "question": "Are topical steroids safe for long-term eczema?",
+    "answer": "Short-term use is safe, but long-term use may cause thinning skin. Rotate with moisturizers or non-steroids.",
+    "symptoms": ["inflamed skin", "stinging", "flare"]
+  },
+  {
+    "condition": "Melasma",
+    "question": "Can men with darker skin get melasma?",
+    "answer": "Yes, melasma affects both genders and is more common in people with darker skin tones and sun exposure.",
+    "symptoms": ["tan patches", "symmetric face marks"]
+  },
+  {
+    "condition": "Vitiligo",
+    "question": "Can vitiligo be stopped from spreading?",
+    "answer": "Treatments like corticosteroids, UVB therapy, and early diagnosis can help slow or halt progression.",
+    "symptoms": ["new white spots", "increasing patches"]
+  },
+  {
+    "condition": "Rosacea",
+    "question": "Does rosacea worsen over time?",
+    "answer": "Without treatment, rosacea can progress from mild flushing to permanent redness and visible blood vessels.",
+    "symptoms": ["flushing", "telangiectasia"]
+  },
+  {
+    "condition": "Acne",
+    "question": "Can shaving worsen acne?",
+    "answer": "Yes, improper shaving can irritate skin or spread bacteria. Use clean razors and shaving cream.",
+    "symptoms": ["razor bumps", "irritation"]
+  },
+  {
+    "condition": "Warts",
+    "question": "Is duct tape a real treatment for warts?",
+    "answer": "Yes, studies show duct tape occlusion may help remove warts by irritating the immune system locally.",
+    "symptoms": ["raised wart", "irritation"]
+  },
+  {
+    "condition": "Seborrheic Keratosis",
+    "question": "How is seborrheic keratosis removed?",
+    "answer": "Doctors may use cryotherapy, curettage, or electrosurgery. It’s cosmetic unless irritation occurs.",
+    "symptoms": ["bumpy lesion", "scaly surface"]
+  },
+  {
+    "condition": "Basal Cell Carcinoma",
+    "question": "Can basal cell carcinoma return in the same spot?",
+    "answer": "Yes, especially if margins were unclear. Mohs surgery is often used for recurrence-prone areas.",
+    "symptoms": ["recurring lesion", "slow growth", "scab"]
+  },
+  {
+    "condition": "Acne",
+    "question": "Do pillowcases affect acne?",
+    "answer": "Yes, dirty pillowcases can trap oil and bacteria. Washing them regularly can help prevent breakouts.",
+    "symptoms": ["cheek acne", "inflammation"]
+  },
+  {
+    "condition": "Sun Damage",
+    "question": "Is tanning oil safe if it contains SPF?",
+    "answer": "Tanning oils typically provide low SPF and encourage prolonged sun exposure, increasing damage risk.",
+    "symptoms": ["sunburn", "sunspots", "heat rash"]
+  },
+  {
+    "condition": "Rosacea",
+    "question": "Can stress cause rosacea flare-ups?",
+    "answer": "Yes, stress is a common rosacea trigger, along with alcohol, heat, and spicy foods.",
+    "symptoms": ["blushing", "flare", "burning"]
+  },
+  {
+    "condition": "Vitiligo",
+    "question": "Does vitiligo affect hair?",
+    "answer": "Yes, depigmentation can occur in hair-bearing areas, leading to white eyelashes, eyebrows, or scalp patches.",
+    "symptoms": ["white hair", "patchy discoloration"]
+  },
+  {
+    "condition": "Warts",
+    "question": "Can warts cause pain?",
+    "answer": "Yes, plantar warts on the sole can press into nerves or tissue and become painful when walking.",
+    "symptoms": ["painful wart", "foot lesion"]
+  },
+  {
+    "condition": "Eczema",
+    "question": "Can eczema affect adults for the first time?",
+    "answer": "Yes, adult-onset eczema is common, particularly in hands or eyelids, triggered by allergens or stress.",
+    "symptoms": ["dry flare", "eye redness"]
+  },
+  {
+    "condition": "Psoriasis",
+    "question": "Can weight gain affect psoriasis?",
+    "answer": "Yes, obesity is linked to more severe psoriasis and reduced treatment efficacy due to systemic inflammation.",
+    "symptoms": ["thick plaques", "skin folds"]
+  },
+  {
+    "condition": "Melasma",
+    "question": "Can computer light worsen melasma?",
+    "answer": "Yes, visible light, including blue light from screens, may contribute to melasma in some individuals.",
+    "symptoms": ["facial pigmentation", "patches"]
+  },
+  {
+    "condition": "Fungal Infections",
+    "question": "Can antibiotics cause fungal infections?",
+    "answer": "Yes, broad-spectrum antibiotics can disrupt normal flora, allowing fungi like Candida to overgrow.",
+    "symptoms": ["oral thrush", "itch", "vaginal yeast"]
+  },
+  {
+    "condition": "Scabies",
+    "question": "How do you confirm a scabies diagnosis?",
+    "answer": "Scabies is diagnosed by skin scraping and microscopy or empirically by classic symptom and burrow location.",
+    "symptoms": ["burrows", "night itch", "rash on wrists"]
+  }
+  
+  ]
+  
